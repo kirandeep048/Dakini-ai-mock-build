@@ -300,6 +300,29 @@
 .header-nav{
     border: none;
 }
+.seg-2-contents-2 {
+    width: 36.875rem;
+}
+
+.content-1-btn {
+    width: 14rem;
+}
+
+.nav-element-2 {
+    display: none;
+}
+
+.nav-element-3 {
+    padding-left: 22.5rem;
+}
+
+.header-elements{
+    width: max-content;
+}
+
+     }
+
+
 
 
 
