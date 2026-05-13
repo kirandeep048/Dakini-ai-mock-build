@@ -313,14 +313,23 @@
 }
 
 .nav-element-3 {
-    padding-left: 22.5rem;
+    padding-left: 11.5rem;
 }
 
 .header-elements{
     width: max-content;
+    font-size: 3rem;
 }
 
-     }
+.logo-pic {
+    width: 3.5rem;
+}
+
+.text-1-seg-2 {
+    width: 30rem;
+}
+
+}
 
 
 
